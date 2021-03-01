@@ -27,3 +27,7 @@ target/
 
 # Michael's stuff
 apm-fs21.iml
+#ignore intellij noise
+apm-app/.idea/
+
+apm-app/apm-app.iml
